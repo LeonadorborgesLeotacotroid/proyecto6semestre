@@ -7,60 +7,28 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Proyecto Académico - Punto de Venta
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Este proyecto fue desarrollado como parte de la carrera de **Sistemas Computacionales** para la asignatura de **[nombre de la asignatura]**, con el objetivo de implementar un sistema funcional que simule un pequeño punto de venta. 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### Características principales:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- **Gestión de usuarios:** Configuración y manejo de cuentas de usuarios con diferentes roles.
+- **Sucursales:** Administración de múltiples sucursales.
+- **Productos y categorías:** Gestión de inventarios y clasificación de productos.
+- **Ventas:** Registro y control de transacciones de venta.
+- **Reportes:** Área de análisis con generación de reportes y gráficos interactivos.
 
-## Learning Laravel
+El proyecto aprovecha las funcionalidades de Laravel para crear una aplicación escalable, robusta y de fácil mantenimiento.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Aprendizaje con Laravel
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+El marco de trabajo Laravel fue elegido por su extenso [ecosistema](https://laravel.com/docs) y recursos como el [Laravel Bootcamp](https://bootcamp.laravel.com) y [Laracasts](https://laracasts.com), que han sido fundamentales para la implementación del proyecto.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Contribuciones
 
-## Laravel Sponsors
+Si deseas colaborar o aportar mejoras a este proyecto académico, no dudes en ponerte en contacto. Se agradece cualquier retroalimentación constructiva.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## Licencia
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Este proyecto fue desarrollado exclusivamente con fines académicos y educativos y está licenciado bajo los términos de la [licencia MIT](https://opensource.org/licenses/MIT).
