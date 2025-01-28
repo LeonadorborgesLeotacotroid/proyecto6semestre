@@ -9,7 +9,7 @@
 
 ## Proyecto Académico - Punto de Venta
 
-Este proyecto fue desarrollado como parte de la carrera de **Sistemas Computacionales** para la asignatura de **[nombre de la asignatura]**, con el objetivo de implementar un sistema funcional que simule un pequeño punto de venta. 
+Este proyecto fue desarrollado como parte de la carrera de **Sistemas Computacionales** para la asignatura de **[Ingeniería de Software]**, con el objetivo de implementar un sistema funcional que simule un pequeño punto de venta. 
 
 ### Características principales:
 
@@ -21,11 +21,12 @@ Este proyecto fue desarrollado como parte de la carrera de **Sistemas Computacio
 
 El proyecto aprovecha las funcionalidades de Laravel para crear una aplicación escalable, robusta y de fácil mantenimiento.
 
-## Aprendizaje con Laravel
+## Tecnologias implementadas
+-**Laravel 11
+-**AJAX
+-**JQuery
+-**Sweetalert
 
-El marco de trabajo Laravel fue elegido por su extenso [ecosistema](https://laravel.com/docs) y recursos como el [Laravel Bootcamp](https://bootcamp.laravel.com) y [Laracasts](https://laracasts.com), que han sido fundamentales para la implementación del proyecto.
-
-## Contribuciones
 
 Si deseas colaborar o aportar mejoras a este proyecto académico, no dudes en ponerte en contacto. Se agradece cualquier retroalimentación constructiva.
 
