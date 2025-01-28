@@ -22,10 +22,10 @@ Este proyecto fue desarrollado como parte de la carrera de **Sistemas Computacio
 El proyecto aprovecha las funcionalidades de Laravel para crear una aplicación escalable, robusta y de fácil mantenimiento.
 
 ## Tecnologias implementadas
-- **Laravel 11
-- **AJAX
-- **JQuery
-- **Sweetalert
+- **Laravel 11**
+- **AJAX**
+- **JQuery**
+- **Sweetalert**
 
 
 Si deseas colaborar o aportar mejoras a este proyecto académico, no dudes en ponerte en contacto. Se agradece cualquier retroalimentación constructiva.
