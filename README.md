@@ -28,7 +28,7 @@ El proyecto aprovecha las funcionalidades de Laravel para crear una aplicación 
 - **Sweetalert**
 
 
-Si deseas colaborar o aportar mejoras a este proyecto académico, no dudes en ponerte en contacto. Se agradece cualquier retroalimentación constructiva.
+
 
 ## Licencia
 
